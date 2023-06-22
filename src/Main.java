@@ -5,7 +5,7 @@ public class Main
 {
     public static void main(String[] args)
     {
-        int ticketPrice = 15623;
+        int ticketPrice = 4213;
         int costOfOneMile = 20;
         int numMilesForTicket = ticketPrice / costOfOneMile;
         System.out.println("After buying ticket of price " + ticketPrice + " you will get " + numMilesForTicket + " miles");
